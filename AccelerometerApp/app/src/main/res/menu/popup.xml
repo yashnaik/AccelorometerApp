@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/m_file"
+        android:title="Create a m-file"
+        />
+
+    <item
+        android:id="@+id/txt_file"
+        android:title="Create a txt-file"
+        />
+
+</menu>
